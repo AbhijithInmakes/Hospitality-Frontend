@@ -24,8 +24,26 @@
   color: white;
 }
 
+.heading-primary {
+  font-family: 'Poppins', sans-serif;  /* Choose a modern font */
+  font-size: 2.5rem;                    /* Slightly larger font for prominence */
+  color: #3498db;                       /* A clean, attractive primary color */
+  text-transform: uppercase;            /* Make the text uppercase */
+  font-weight: 600;                     /* Bold, but not too heavy */
+  text-align: center;                   /* Center the heading */
+  margin: 20px 0;                       /* Add some space around the heading */
+  letter-spacing: 1px;                  /* Add some spacing between the letters */
+  line-height: 1.2;                     /* Improve readability with a good line height */
+  border-bottom: 2px solid #3498db;     /* Optional: a bottom border for emphasis */
+  padding-bottom: 10px;                 /* Spacing for bottom border */
+}
+
 .App-link {
   color: #61dafb;
+}
+.custom-btn-sm {
+  padding: 2px 8px;  /* Reduce padding */
+  font-size: 22px;    /* Reduce font size */
 }
 
 @keyframes App-logo-spin {
