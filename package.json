@@ -2,7 +2,7 @@
   "name": "myapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://abhijithinmakes.github.io/Hospitality-Frontend",
+  "homepage": "https://AbhijithInmakes.github.io/Hospitality-Frontend",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.6.0",
     "@fortawesome/free-solid-svg-icons": "^6.6.0",
